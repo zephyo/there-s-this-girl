@@ -1,4 +1,4 @@
-![header image](https://img.itch.zone/aW1nLzE1MjE0MzgucG5n/original/FGpGqx.png)
+![header image](https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif)
 ***
 ## Experience love between two girls, earnest stargazers and still searching for their path in life. 
 
@@ -19,12 +19,10 @@ height = "60" /></p></a>
 height="60" /></p></a>
 
 ***
-<img align="left" height="100" src="https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" 
-/> Created this game for Stanford Fall Game Jam 2018, then used Thanksgiving break to polish and publish it!
+Created this game for Stanford Fall Game Jam 2018, then used Thanksgiving break to polish and publish it!
 
 
 Inspired by Florence and color theory.
-
 
 
 Technologies
