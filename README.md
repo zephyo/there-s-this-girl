@@ -19,10 +19,9 @@ height = "60" /></p></a>
   <p align="center"><img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" 
 height="60" /></p></a>
 
-<p align="center"><img src="
-https://img.itch.zone/aW1nLzE2NTQwNDYucG5n/original/ip9Ih1.png
-" 
-height="200" /></p>
+<p align="center"><img src="https://img.itch.zone/aW1nLzE2NTQwNDYucG5n/original/ip9Ih1.png" height="200" /></p>
+
+
 ***
 Created this game for Stanford Fall Game Jam 2018, then used Thanksgiving break to polish and publish it!
 
