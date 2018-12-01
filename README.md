@@ -9,7 +9,7 @@ The future is unclear: Will their dreams be broken? Will they walk different pat
 
 
 <a href="https://zephyo.itch.io/theres-this-girl" target="_blank">
-  <p align="center"><img src="https://zephyo.github.io/img/messenger.png" 
+  <p align="center"><img src="https://itch.io/press-kit/assets/badges/badge_color.png" 
 height="60" /></p></a>
 <a href="https://play.google.com/store/apps/details?id=com.AngelaHe.TheresThisGirl" target="_blank">
   <p align="center">
