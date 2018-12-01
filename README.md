@@ -1,5 +1,5 @@
 <img height = "200" src = "https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" align="middle">
-***
+
 ## Experience love between two girls, earnest stargazers and still searching for their path in life. 
 
 The future is unclear: Will their dreams be broken? Will they walk different paths? And.. can their love be torn apart?
