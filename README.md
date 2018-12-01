@@ -1,4 +1,7 @@
-<img height = "200" src = "https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" align="middle">
+<img height = "200" src = "https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" style=" display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;">
 
 ## Experience love between two girls, earnest stargazers and still searching for their path in life. 
 
