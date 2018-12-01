@@ -19,7 +19,7 @@ height = "60" /></p></a>
 height="60" /></p></a>
 
 ***
-<img align="left" height="120" src="https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" 
+<img align="left" height="100" src="https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" 
 /> Created this game for Stanford Fall Game Jam 2018, then used Thanksgiving break to polish and publish it!
 
 
