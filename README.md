@@ -1,4 +1,4 @@
-![header image](https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif)
+<img height = "200" src = "https://img.itch.zone/aW1nLzE2NTM4MDAuZ2lm/original/XJ2zeo.gif" align="center">
 ***
 ## Experience love between two girls, earnest stargazers and still searching for their path in life. 
 
